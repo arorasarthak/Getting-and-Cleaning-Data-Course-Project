@@ -26,5 +26,5 @@ The following file is available for the train and test data.
 - Run the script...
 The output will be stored in a text file in your working directory called 'tidy_data_set.txt' 
 
-###All the variables have been defined in comments in the script file(run_analysis.R)
+####All the variables have been defined in comments in the script file(run_analysis.R)
  
